@@ -1,6 +1,6 @@
 # Trecord
 
-<p align="center"><img src="https://github.com/travel-record/frontend/assets/104904719/e8ae11d3-0121-4e26-8da0-c9bab1aeffd5" width="400" ></P>
+<p align="center"><img src="https://github.com/travel-record/frontend/assets/104904719/e8ae11d3-0121-4e26-8da0-c9bab1aeffd5" ></P>
 
 <p>Trecord는 Trip+Record로 합친 말로</p>
 <p>여행 경험을 기록하고, 다양한 사람들과 공유하며,</p>
